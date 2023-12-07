@@ -1,0 +1,19 @@
+body{
+    background-color: maroon;
+
+}
+form{
+    border: red 1 px;
+    padding: 25px;
+    border-radius: 25px;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin:auto;
+}
+from*{
+    margin: 5 px;
+    padding: 5 px;
+}
